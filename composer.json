@@ -16,6 +16,7 @@
     ],
     "extra": {
         "component": {
+            "main": "masonry.pkgd.js",
             "scripts": [
                 "masonry.pkgd.js"
             ],

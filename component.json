@@ -4,5 +4,6 @@
   "description": "Cascading grid layout library",
   "version": "3.1.2",
   "scripts": ["masonry.pkgd.js"],
-  "license": "MIT"
+  "license": "MIT",
+  "main": "masonry.pkgd.js"
 }
